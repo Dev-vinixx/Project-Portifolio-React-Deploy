@@ -1,0 +1,42 @@
+body {
+ background-image: linear-gradient(to left, rgb(155, 128, 175), rgb(194, 166, 214));
+}
+.section{
+ margin: 0 auto;
+ width: 90%;
+ height: 87.5vh;
+ display: flex;
+ justify-content: space-between;
+}
+.div-text {
+ display: flex;
+ flex-direction: column;
+ justify-content: center;
+ width: 47%;
+}
+.text-one{
+ font-size: 2rem;
+ font-weight: 600;
+ color: white;
+}
+.div-text span{
+ font-weight: bold;
+ color: #f2f8b8ee;
+ font-size: 3.6rem;
+}
+.text-two{
+ font-size: 2.6rem;
+ font-weight: 600;
+ color: white;
+}
+.text-three {
+ font-size: 1.3rem;
+ font-weight: 600;
+ color: white;
+ margin-left: auto;
+}
+.undraw-img {
+ width: 50%;
+ height: 70vh;
+ margin: auto;
+}
