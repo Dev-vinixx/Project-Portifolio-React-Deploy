@@ -13,7 +13,7 @@ function App() {
 
       <Header />
 
-        <section className="section">
+        <section className="section-presentation">
 
           <div className="div-text">
             <p className="text-one">hello 👋🏻, my name is Vinicius i am</p>
@@ -25,6 +25,7 @@ function App() {
           <img className="undraw-img" src="./code-developer.svg" alt="" />
 
         </section>
+
 
       <Footer />
 
